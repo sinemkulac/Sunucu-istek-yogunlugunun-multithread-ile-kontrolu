@@ -3,9 +3,9 @@ Bu readme.txt dosyası,Sunucu İstek Yoğunluğunun Multithread İle Kontrolü P
 Bu paket, kod ile aynı dizin içerisinde bulunacaktır.
 1-PAKETİN İÇERİĞİ:
 ----------
-readme.txt - Bu dosya.
-170201034-170201048.txt - Kodun txt formatına aktarılmış hali
-170201034-170201048rapor.doc - Proje hakkındaki rapor
+Multithread-proje klasörü
+readme.txt - Bu dosya
+rapor.doc - Proje hakkındaki rapor
 ----------
 2-SİSTEM GEREKSİNİMLERİ:
 -------------------
